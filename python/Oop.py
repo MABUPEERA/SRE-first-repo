@@ -25,3 +25,11 @@ person5.show()
 
 print(person1)
 print(person2)
+
+
+
+
+#functions with __ at either end are called as
+# magic methods or dunder methods
+# each of this methods has some special meaning that
+# __init__ means constructor
