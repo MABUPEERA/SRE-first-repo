@@ -1,4 +1,4 @@
-#from utilities import mul,sum,reverse
+from utilities import mul,sum,reverse
 
 
 print(sum(234,353,34))
